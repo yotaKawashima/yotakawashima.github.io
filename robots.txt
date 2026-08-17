@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yotakawashima.github.io/sitemap.xml
