@@ -10,5 +10,5 @@
 ├── sitemap.xml         # Website indexing
 └── assets/
     ├── css/style.css   # Shared styles
-    └── img/avatar.svg  # Placeholder avatar image
+    └── img/avatar.svg  # Placeholder avatar image 
 ```
